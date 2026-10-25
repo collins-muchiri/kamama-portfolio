@@ -1,5 +1,11 @@
 # Kamama Portfolio - Production-Grade Systems
 
+*Governance-first portfolio: production-grade systems for governance, AI and enterprise ops; Next.js 16.*
+
+![category](https://img.shields.io/badge/category-web-platform-EC4899?style=flat-square) ![language](https://img.shields.io/badge/language-TypeScript-2563EB?style=flat-square) ![maintenance](https://img.shields.io/badge/maintenance-active-16A34A?style=flat-square) ![repo](https://img.shields.io/badge/repo-kamama--portfolio-111827?style=flat-square)
+
+---
+
 > **Collins (Muchiri) Kamama** · Solution Architect · Full Stack Developer · Data Scientist
 > Nairobi, Kenya (UTC+3) - available for remote ICA contracts globally.
 
